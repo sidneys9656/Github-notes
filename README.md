@@ -1,17 +1,17 @@
 # Github-notes
 
-##git 
+git 
 
-###version control software
+version control software
 
-###github
+github
 
-###web service that allows you to use git but is not the application itself.
+web service that allows you to use git but is not the application itself.
 
-###repo 
+repo 
 
-###github repository is where your code and other stuff made on github is saved
+github repository is where your code and other stuff made on github is saved
 
-###commit changes
+commit changes
 
-###It is like deciding to make the changes you have just done
+It is like deciding to make the changes you have just done
